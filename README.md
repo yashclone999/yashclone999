@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @yashclone999
-- 👀 I’m interested in Deep Learning and Distributed Systems
-- 🌱 I’m currently working as a software engineer
-- 💞️ I’m looking to collaborate on ML projects, Cool Microservices Architectures
+- 👋 Hi, I’m Yash
+- 👀 I’m interested in Full stack development and Distributed Systems
+- 🌱 I’m currently pursuing an MS in CS
 - 📫 How to reach me - yash98thk@gmail.com
 
 <!---
